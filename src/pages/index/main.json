@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "换换",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50,
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#FFDA4B"
+}

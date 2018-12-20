@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "remUnit": {
+      "type": "number"
+    }
+  }
+}
